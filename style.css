@@ -1,0 +1,145 @@
+/* <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap" rel="stylesheet"> */
+/* * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; better for layout calculations
+    font-family: 'Quicksand', sans-serif;
+}
+
+body {
+    background-color: rgb(4, 4, 49);
+    color: white;
+    overflow-x: hidden;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 80px;
+    background-color: rgb(88, 88, 149);
+}
+
+nav ul {
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li {
+    list-style: none;
+    margin: 0 23px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+    transition: 0.3s;
+}
+
+nav ul li a:hover {
+    color: lavender;
+    font-size: 1.4rem;
+}
+
+main hr {
+    border: 0;
+    background: lavender;
+    height: 1.2px;
+    margin: 60px 84px;
+}
+
+.left {
+    font-size: 1.8rem;
+}
+
+.firstsecion{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 80px 0;
+} */
+
+/* .firstsection > div {
+    width: 30%;
+}
+        
+.leftsection {
+    background: rgb(137, 53, 53); 
+    width: 40%;
+    font-size: 2rem;
+}
+
+.rightsection{
+    width: 30%;
+}
+
+.rightsection img {
+    width: 80%;
+    margin: 40px 0;
+} */
+
+/* .purple {
+    color: lavender;
+    }
+
+.text-gray {
+    color: gray;
+}
+        
+#element {
+    color: lavender;
+}
+
+.secondSection {
+    max-width: 80vw;
+    margin: auto;
+    height: 80vh;
+}
+
+.secondSection h1{
+    font-size: 2.0rem;
+}
+
+.secondSection .box {
+    background: white;
+    width: 80vm;
+    height: 2px;
+    margin: 120px 0;
+    display: flex;
+}
+        
+.secondSection .vertical{
+    height: 93px;
+    width: 1px;
+    background: white;
+    margin: 0 100px;
+    position: realtive;
+}
+
+.image-top {
+    width: 45px;
+    position: absolute;
+    top: -60px;
+    left: -22px;
+}
+
+.vertical-title {
+    position: absolute;
+    top: 105px;
+    width: 200px;
+    left: -10px;
+    font-size: 1rem;
+    font-weight: bold;
+}
+        
+.vertical-desc{
+    position: absolute;
+    top: 140px;
+    width: 250px;
+    left: -10px;
+    font-size: 0.9rem;
+    color: gray;
+}
+ */
