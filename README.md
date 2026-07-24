@@ -25,4 +25,4 @@ A clean, static personal portfolio built as a hands-on exercise to practice core
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/Sezalsanga99900/my_project_portfolio/new/main?filename=README.md](https://github.com/Sezalsanga99900/my_project_portfolio/new/main?filename=README.md)
+   git clone [https://github.com/Sezalsanga99900/my_project_portfolio.git](https://github.com/Sezalsanga99900/my_project_portfolio.git)
